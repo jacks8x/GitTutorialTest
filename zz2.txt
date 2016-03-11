@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-
 new checkout
-=======
 abc def
->>>>>>> Stashed changes
